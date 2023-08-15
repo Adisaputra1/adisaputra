@@ -10,12 +10,12 @@ module.exports = {
       },
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],
-        raleway: ['Ralweay', 'sans-serif'],
+        raleway: ['Raleway', 'sans-serif'],
       },
       spacing: {
         852: '852px',
         700: '715px',
-        730: '730',
+        730: '730px',
         720: '727px',
         1060: '1260px',
         660: '680px',
